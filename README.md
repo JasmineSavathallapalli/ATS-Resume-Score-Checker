@@ -31,10 +31,10 @@ A smart and interactive tool to analyze how well your resume performs in an Appl
   - `ipywidgets`
 
 🧠 How It Works
-Base Score: Based on section presence, formatting bullets, use of action verbs, resume length
+- Base Score: Based on section presence, formatting bullets, use of action verbs, resume length
 
-JD Match Score: If a job description is uploaded, matches using TF-IDF + cosine similarity
+- JD Match Score: If a job description is uploaded, matches using TF-IDF + cosine similarity
 
-Improvement Tips: Recommends missing keywords, sections, and better phrasing
+- Improvement Tips: Recommends missing keywords, sections, and better phrasing
 
-Output: ATS score (0–100), bar graph, keyword gaps, and writing suggestions
+- Output: ATS score (0–100), bar graph, keyword gaps, and writing suggestions
